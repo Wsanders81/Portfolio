@@ -35,10 +35,10 @@ const PortfolioTwo = () => {
                           <li data-aos="fade-right" data-aos-duration="1200">
                             <div className="inner">
                               <div className="entry shane_tm_portfolio_animation_wrap">
-                                <a href="https://lh3.googleusercontent.com/pw/AM-JKLXZyKesBIxjvmWKkKNG7tgsyrTfMEcbQ-fGtFE8fL1m256bufurecTWeiCpIfSs718UxaoftXz1qYJ4cpv1aGojBTjIBV83ddGWmqW1luL29UVcNu-h-oxRuvp5lIG5GiNaKUnYVOUxuyNwLVE-S1evuOf0zvE8dWicRBdDsl2g2JGffFYv5AG2Z3ef7Qw2289exSY_chyYQimMXANi6Ci4YHut6v_FxyeXTbb3M7p-QcQwLnLp31hlmvK_VdXh2w751RkbS0cmaCG2KJQd7u05WbRSH7yKdqGPNgD4UNhTnwJZhqGHIaxFAESoR7YJk9Bom6myozUtnOC1g1I7oVin0lIF3ixTnIHMTgB1ShQFdO0xxol5VrehEVI3L6_V7j3USQshfmvFQ3xH6kvvNRbAm_UizFNrcRIoOLXmPF2L_yjBL-DOzEwn_MgcHwo_EkWqyWmLXQnSERXIurSNxl49V2-zdxr1N3brPUgF-wSv-o6uxne5IocvEXUBwYnXECN1sTBtXX5ZUd-SpSWkPrU3TfdtjU623H16GPFVs2P-R7BypMPjKbb-mzC3cMXjCShVxMNhsFJpJSBtWXgh52wOIgwLIViV42-vC6l9GdRhOygZEyrlbBQrhIWzrn50P6pO5dnZqOHmF7UHRcR9pDYE7ia7CCoEATykJ7Yi9lSEiMW4caEYg9j0SNvYE1zOWmUGAyFQdGRNVFhj8Zg4H8PC_5bIXGMwjMgojckQRl1OUR4=w391-h220-no?authuser=0">
+                                <a href="https://photos.app.goo.gl/PJkrthfVv1yUx1Yy7">
                                   <img
                                   style={{height:"100%", width:"100%",objectFit:"cover"}}
-                                    src="https://lh3.googleusercontent.com/pw/AM-JKLXZyKesBIxjvmWKkKNG7tgsyrTfMEcbQ-fGtFE8fL1m256bufurecTWeiCpIfSs718UxaoftXz1qYJ4cpv1aGojBTjIBV83ddGWmqW1luL29UVcNu-h-oxRuvp5lIG5GiNaKUnYVOUxuyNwLVE-S1evuOf0zvE8dWicRBdDsl2g2JGffFYv5AG2Z3ef7Qw2289exSY_chyYQimMXANi6Ci4YHut6v_FxyeXTbb3M7p-QcQwLnLp31hlmvK_VdXh2w751RkbS0cmaCG2KJQd7u05WbRSH7yKdqGPNgD4UNhTnwJZhqGHIaxFAESoR7YJk9Bom6myozUtnOC1g1I7oVin0lIF3ixTnIHMTgB1ShQFdO0xxol5VrehEVI3L6_V7j3USQshfmvFQ3xH6kvvNRbAm_UizFNrcRIoOLXmPF2L_yjBL-DOzEwn_MgcHwo_EkWqyWmLXQnSERXIurSNxl49V2-zdxr1N3brPUgF-wSv-o6uxne5IocvEXUBwYnXECN1sTBtXX5ZUd-SpSWkPrU3TfdtjU623H16GPFVs2P-R7BypMPjKbb-mzC3cMXjCShVxMNhsFJpJSBtWXgh52wOIgwLIViV42-vC6l9GdRhOygZEyrlbBQrhIWzrn50P6pO5dnZqOHmF7UHRcR9pDYE7ia7CCoEATykJ7Yi9lSEiMW4caEYg9j0SNvYE1zOWmUGAyFQdGRNVFhj8Zg4H8PC_5bIXGMwjMgojckQRl1OUR4=w391-h220-no?authuser=0"
+                                    src="https://photos.app.goo.gl/PJkrthfVv1yUx1Yy7"
                                     alt="Design"
                                   />
                                 </a>
@@ -67,10 +67,10 @@ const PortfolioTwo = () => {
                           >
                             <div className="inner">
                               <div className="entry shane_tm_portfolio_animation_wrap">
-                                <a href="https://lh3.googleusercontent.com/xl0chom9hjX4IkhFeM1UoTb_xwWCdTkcIawCQmqxrGZbbzRWa_SYqVUX53khRjgs2DoE2wwvxowtaz0h3m2Rt1p8sDMsqj5Tcjt4RiItYta4md0zs--cco45EB72wq3CfufC3X4UJOZ354vAS-pZa__lvo3PdlsqwC6bUVYpzseYc-rrLnYZ5VCbLbhFi4TQf6nbzTUSWzBlmeuVeduks582oTM9EjVGP_Uf0LIllYl0W8VSajnb9TCjbJquuemo0g3tWQdX4kk-hHmLQRrjQ8kdcWaynixNnTXmxidq314zLSbDbuK5dI-h2UgkEC4S6UwZQQG1mEUxPfu0zKFsoqI7QC6d7AD3-udQS2sn2kw89BzM4Lv9kOELc4Ic_FABprEHJBf4DZD89-WnBMw_QVKgsXXnTweNa0C0hzgYV9SkYGH38DQjiO0fProhgWMJsZF8cHPuZlfHXdB9iJolgGKnn7QMR6MEgdbzdynS6uIaFOl04vo4jDCl0HOyr_nU07isrLxXJjkzMdHEkrvoUBTXCDS2XO7CqQcvmA5A62pyrbJCTLLT2nn-Uby-wToei5ClOBEystqZYMcepvdB1UM9KY7B5U2Ukf3asXbZvFMuqcYMfBsjHUfx7bqOWvDJGkjjnuIM0MYdfKAtF8dysHnkL9neQPoZLB_xA3QhYpAWGNPBv5T0GeUVCihMlNZ_cm6RZVUjsRViG2fmQbf6zwWP=w395-h223-no?authuser=0">
+                                <a href="https://photos.app.goo.gl/RjdPzfN9PZctrFkR7">
                                   <img
                                   style={{height:"100%", width:"100%",objectFit:"cover"}}
-                                    src="https://lh3.googleusercontent.com/xl0chom9hjX4IkhFeM1UoTb_xwWCdTkcIawCQmqxrGZbbzRWa_SYqVUX53khRjgs2DoE2wwvxowtaz0h3m2Rt1p8sDMsqj5Tcjt4RiItYta4md0zs--cco45EB72wq3CfufC3X4UJOZ354vAS-pZa__lvo3PdlsqwC6bUVYpzseYc-rrLnYZ5VCbLbhFi4TQf6nbzTUSWzBlmeuVeduks582oTM9EjVGP_Uf0LIllYl0W8VSajnb9TCjbJquuemo0g3tWQdX4kk-hHmLQRrjQ8kdcWaynixNnTXmxidq314zLSbDbuK5dI-h2UgkEC4S6UwZQQG1mEUxPfu0zKFsoqI7QC6d7AD3-udQS2sn2kw89BzM4Lv9kOELc4Ic_FABprEHJBf4DZD89-WnBMw_QVKgsXXnTweNa0C0hzgYV9SkYGH38DQjiO0fProhgWMJsZF8cHPuZlfHXdB9iJolgGKnn7QMR6MEgdbzdynS6uIaFOl04vo4jDCl0HOyr_nU07isrLxXJjkzMdHEkrvoUBTXCDS2XO7CqQcvmA5A62pyrbJCTLLT2nn-Uby-wToei5ClOBEystqZYMcepvdB1UM9KY7B5U2Ukf3asXbZvFMuqcYMfBsjHUfx7bqOWvDJGkjjnuIM0MYdfKAtF8dysHnkL9neQPoZLB_xA3QhYpAWGNPBv5T0GeUVCihMlNZ_cm6RZVUjsRViG2fmQbf6zwWP=w395-h223-no?authuser=0"
+                                    src="https://photos.app.goo.gl/RjdPzfN9PZctrFkR7"
                                     alt="Branding"
                                   />
                                 </a>
