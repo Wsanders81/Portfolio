@@ -55,8 +55,8 @@ const AboutThree = () => {
                   data-aos-duration="1200"
                   
                 >
-                  <a href="img/resume/resume.pdf" download style={{backgroundColor:"#8090BC"}}>
-                    Download Resume
+                  <a href="https://docs.google.com/document/d/12UZTrjkUBgsu-kcnvY_AXDPpDw0ZkcgURqkAv3NjaXs/edit?usp=sharing"  style={{backgroundColor:"#8090BC"}} target="_blank" rel="noreferrer">
+                   Download Resume
                   </a>
                 </div>
               </div>
