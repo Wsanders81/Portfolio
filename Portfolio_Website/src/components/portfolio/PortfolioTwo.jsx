@@ -38,7 +38,7 @@ const PortfolioTwo = () => {
                                 <a href="https://photos.app.goo.gl/fnwyL6c8eSpiiRQj7">
                                   <img
                                   style={{height:"100%", width:"100%",objectFit:"cover"}}
-                                    src="https://photos.app.goo.gl/fnwyL6c8eSpiiRQj7"
+                                    src="https://ibb.co/YT6bRJ3"
                                     alt="Design"
                                   />
                                 </a>
@@ -46,7 +46,7 @@ const PortfolioTwo = () => {
                               <div className="mobile_title">
                                 <h3>
                                   <a
-                                    href="https://forktacular.herokuapp.com/"
+                                    href="https://ibb.co/YT6bRJ3"
                                     rel="noopener noreferrer"
                                     target="_blank"
                                   >
