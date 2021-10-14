@@ -35,10 +35,10 @@ const PortfolioTwo = () => {
                           <li data-aos="fade-right" data-aos-duration="1200">
                             <div className="inner">
                               <div className="entry shane_tm_portfolio_animation_wrap">
-                                <a href="https://photos.app.goo.gl/Zygh4psrDpTNWLKj7">
+                                <a href="https://photos.app.goo.gl/fnwyL6c8eSpiiRQj7">
                                   <img
                                   style={{height:"100%", width:"100%",objectFit:"cover"}}
-                                    src="https://photos.app.goo.gl/Zygh4psrDpTNWLKj7"
+                                    src="https://photos.app.goo.gl/fnwyL6c8eSpiiRQj7"
                                     alt="Design"
                                   />
                                 </a>
