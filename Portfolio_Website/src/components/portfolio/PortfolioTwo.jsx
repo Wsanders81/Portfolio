@@ -38,7 +38,7 @@ const PortfolioTwo = () => {
                                 <a href="https://photos.app.goo.gl/fnwyL6c8eSpiiRQj7">
                                   <img
                                   style={{height:"100%", width:"100%",objectFit:"cover"}}
-                                    src="https://ibb.co/YT6bRJ3"
+                                    src="https://i.ibb.co/Fq9nxcK/Forktacular.jpg"
                                     alt="Design"
                                   />
                                 </a>
@@ -46,7 +46,7 @@ const PortfolioTwo = () => {
                               <div className="mobile_title">
                                 <h3>
                                   <a
-                                    href="https://ibb.co/YT6bRJ3"
+                                    href="https://i.ibb.co/Fq9nxcK/Forktacular.jpg"
                                     rel="noopener noreferrer"
                                     target="_blank"
                                   >
@@ -67,10 +67,10 @@ const PortfolioTwo = () => {
                           >
                             <div className="inner">
                               <div className="entry shane_tm_portfolio_animation_wrap">
-                                <a href="https://photos.app.goo.gl/RjdPzfN9PZctrFkR7">
+                                <a href="https://i.ibb.co/PzsG0cQ/1.gif">
                                   <img
                                   style={{height:"100%", width:"100%",objectFit:"cover"}}
-                                    src="https://photos.app.goo.gl/RjdPzfN9PZctrFkR7"
+                                    src="https://i.ibb.co/PzsG0cQ/1.gif"
                                     alt="Branding"
                                   />
                                 </a>
