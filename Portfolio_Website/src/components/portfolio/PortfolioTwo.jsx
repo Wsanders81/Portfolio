@@ -35,22 +35,22 @@ const PortfolioTwo = () => {
                           <li data-aos="fade-right" data-aos-duration="1200">
                             <div className="inner">
                               <div className="entry shane_tm_portfolio_animation_wrap">
-                                <a href="https://photos.app.goo.gl/fnwyL6c8eSpiiRQj7">
+                                <a href="https://i.ibb.co/Fq9nxcK/Forktacular.jpg">
                                   <img
                                   style={{height:"100%", width:"100%",objectFit:"cover"}}
                                     src="https://i.ibb.co/Fq9nxcK/Forktacular.jpg"
-                                    alt="Design"
+                                    alt="Forktacular"
                                   />
                                 </a>
                               </div>
                               <div className="mobile_title">
                                 <h3>
                                   <a
-                                    href="https://i.ibb.co/Fq9nxcK/Forktacular.jpg"
+                                    href="https://forktacular.herokuapp.com/"
                                     rel="noopener noreferrer"
                                     target="_blank"
                                   >
-                                    Forktacular
+                                    Visit: Forktacular
                                   </a>
                                 </h3>
                                 <span>JavaScript / Python</span>
@@ -71,7 +71,7 @@ const PortfolioTwo = () => {
                                   <img
                                   style={{height:"100%", width:"100%",objectFit:"cover"}}
                                     src="https://i.ibb.co/PzsG0cQ/1.gif"
-                                    alt="Branding"
+                                    alt="Jobly"
                                   />
                                 </a>
                               </div>
@@ -82,7 +82,7 @@ const PortfolioTwo = () => {
                                     rel="noopener noreferrer"
                                     target="_blank"
                                   >
-                                    Jobly
+                                    Visit: Jobly
                                   </a>
                                 </h3>
                                 <span>React / NodeJS</span>

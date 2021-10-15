@@ -24,7 +24,8 @@ const Header = () => {
         <div className={navbar ? "topbar_inner opened" : "topbar_inner"}>
           <div className="logo">
             <NavLink to="/"> 
-              <img src="/img/logo/new/dark.png" alt="Will Sanders Brand" />
+            <h3 className="content">willSanders.dev</h3>
+              {/* <img src="/img/logo/new/dark.png" alt="Will Sanders Brand" /> */}
             {/* <img  src="/img/logo/new/dark.png"/> */}
              </NavLink> 
             </div> 
@@ -66,8 +67,7 @@ const Header = () => {
             <div className="topbar_in">
               <div className="logo">
                 <NavLink to="/">
-                  <img src="/img/logo/new/dark.png" alt="will sanders brand"  />
-                </NavLink>
+                <h3 className="content">willSanders.dev</h3>                </NavLink>
               </div>
               {/* End logo */}
               <div className="my_trigger" onClick={handleClick}>

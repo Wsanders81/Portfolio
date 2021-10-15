@@ -661,6 +661,33 @@ h6 {
 	display: inline-block;
 	overflow: hidden;
 }
+
+.shane_tm_topbar .content{
+	position: relative;
+	font-size: 1rem;
+	
+	font-family: "Montserrat";
+	text-transform: uppercase;
+	font-weight: 900;
+	color: rgb(201, 226, 221);
+	line-height: 1.2;
+	display: inline-block;
+	overflow: hidden;
+}
+
+.shane_tm_mobile_menu .content {
+	position: relative;
+	font-size: 1rem;
+	
+	font-family: "Montserrat";
+	text-transform: uppercase;
+	font-weight: 900;
+	color: rgb(201, 226, 221);
+	line-height: 1.2;
+	display: inline-block;
+	overflow: hidden;
+}
+
 .shane_tm_hero .content h3 span {
 	color: transparent;
 	-webkit-text-stroke: 1px #000;
@@ -671,7 +698,8 @@ h6 {
 }
 .shane_tm_hero .content .job {
 	font-weight: 500;
-	font-size: 17px;
+	font-size: 20px;
+	margin-left: 1rem; 
 	font-family: "Roboto";
 	float: left;
 	position: relative;
@@ -929,7 +957,26 @@ body.loaded .overlay_effect:after {
 		padding: 8px 25px;
 	}
 }
+.shane_tm_button button {
+	text-decoration: none;
+	color: #fff;
+	background-color: #000;
+	display: inline-block;
+	padding: 13px 48px;
+	border: 2px solid #000;
+	font-family: "Poppins";
+	transition: all 0.5s cubic-bezier(0, 0, 0.1, 1);
+	cursor: pointer !important;
+	@media screen and (max-width: 992px) {
+		padding: 8px 25px;
+	}
+}
 .shane_tm_button a:hover {
+	color: #000;
+	background-color: transparent;
+	transform: translateY(-3px);
+}
+.shane_tm_button button:hover {
 	color: #000;
 	background-color: transparent;
 	transform: translateY(-3px);
@@ -1965,7 +2012,7 @@ body.modal {
 	left: 0px;
 	right: 0px;
 	z-index: 1;
-	background-color: rgba(0, 0, 0, 0.6);
+	background-color: rgba(0, 0, 0, 0.8);
 }
 
 .shane_tm_talk .shape {

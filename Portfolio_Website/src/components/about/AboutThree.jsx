@@ -1,6 +1,17 @@
-import React from "react";
+import React, {useState} from "react";
+import Modal from 'react-modal'
+import SimpleReactLightbox from "simple-react-lightbox";
+import { SRLWrapper } from "simple-react-lightbox";
+Modal.setAppElement("#root");
+
+
 
 const AboutThree = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  function toggleModalOne() {
+    setIsOpen(!isOpen);
+  }
   return (
     <>
       <div className="shane_tm_section" id="about">
@@ -55,9 +66,13 @@ const AboutThree = () => {
                   data-aos-duration="1200"
                   
                 >
-                  <a href="https://docs.google.com/document/d/12UZTrjkUBgsu-kcnvY_AXDPpDw0ZkcgURqkAv3NjaXs/edit?usp=sharing"  style={{backgroundColor:"#8090BC"}} target="_blank" rel="noreferrer">
+                  
+                  <button onClick={toggleModalOne} style={{backgroundColor:"#8090BC"}} >
                    Download Resume
-                  </a>
+                
+                  </button>
+                  
+                 
                 </div>
               </div>
               {/* End right */}
@@ -65,6 +80,22 @@ const AboutThree = () => {
           </div>
           {/* End container */}
         </div>
+        
+        <Modal
+        isOpen={isOpen}
+        onRequestClose={toggleModalOne}
+        contentLabel="My dialog"
+        className="custom-modal"
+        overlayClassName="custom-overlay"
+        closeTimeoutMS={500}
+      >
+            <SimpleReactLightbox>
+              <SRLWrapper>
+            <img alt="resume" src="https://i.ibb.co/ZK3cffR/Resume-Will-Sanders.jpg"/>
+            </SRLWrapper>
+            </SimpleReactLightbox>
+      </Modal>
+      
       </div>
     </>
   );
