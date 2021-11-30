@@ -23,7 +23,7 @@ const CallToActionTwo = () => {
           })`,
         }}
       >
-        <div className="shape">
+        <div className="shape"> 
           <img className="svg" src="/img/svg/paper.svg" alt="partners brand" />
         </div>
         {/* End shape */}
