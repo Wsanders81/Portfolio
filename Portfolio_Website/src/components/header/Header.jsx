@@ -20,13 +20,12 @@ const Header = () => {
 
   return (
     <>
-      <div className="shane_tm_topbar" style={{backgroundColor: "cornflowerblue"}}>
+      <div className="shane_tm_topbar" style={{backgroundColor: "rgba(3,67,102,0.8)"}}>
         <div className={navbar ? "topbar_inner opened" : "topbar_inner"}>
           <div className="logo">
             <NavLink to="/"> 
             <h3 className="content">willSanders.dev</h3>
-              {/* <img src="/img/logo/new/dark.png" alt="Will Sanders Brand" /> */}
-            {/* <img  src="/img/logo/new/dark.png"/> */}
+              
              </NavLink> 
             </div> 
           {/* End logo */}

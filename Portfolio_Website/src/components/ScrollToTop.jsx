@@ -35,7 +35,7 @@ export default function ScrollToTop() {
           className="scroll_up"
           data-aos="fade-left"
           data-aos-duration="1200"
-          style={{backgroundColor: "#A0E7E5"}}
+          style={{backgroundColor: "rgb(134,220,217)"}}
         >
           <img src="/img/arrow-up.svg" alt="scroll up" />
         </div>

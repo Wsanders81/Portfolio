@@ -69,7 +69,7 @@ const Contact = () => {
         </div>
 
         <div className="tokyo_tm_button">
-          <button type="submit" className="white-fill-bg fill-black" style={{backgroundColor:"rgba(160,231,229,0.7)"}}>
+          <button type="submit" className="white-fill-bg fill-black" style={{backgroundColor:"rgba(49,56,60,0.7)"}}>
             Send Message
           </button>
         </div>

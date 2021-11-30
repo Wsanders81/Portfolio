@@ -20,7 +20,7 @@ const Slider = () => {
           <div className="content">
             <div className="name_wrap">
               <h3>
-                <span >Will</span> <span style={{color: "#E6F4F1"}}>Sanders</span><span className="overlay_effect"></span>
+                <span >Will</span> <span style={{color: "rgba(3,67,102,0.8)"}}>Sanders</span><span className="overlay_effect"></span>
               </h3>
             </div>
             {/* End title */}

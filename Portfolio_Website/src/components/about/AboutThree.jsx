@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import Modal from 'react-modal'
 import SimpleReactLightbox from "simple-react-lightbox";
 import { SRLWrapper } from "simple-react-lightbox";
+// import familyPhoto from '../../images/icons/_'
 Modal.setAppElement("#root");
 
 
@@ -30,7 +31,7 @@ const AboutThree = () => {
                     className="main"
                     style={{
                       backgroundImage: `url(${
-                        process.env.PUBLIC_URL + "img/about/3.jpg"
+                        process.env.PUBLIC_URL + "img/about/familyPhoto.jpg"
                       })`,
                     }}
                   ></div>
@@ -45,7 +46,7 @@ const AboutThree = () => {
                   data-aos="fade-up"
                   data-aos-duration="1200"
                 >
-                  <span style={{backgroundColor: '#E6F4F1'}}>About Me</span>
+                  <span style={{backgroundColor: 'rgba(134,220,217)'}}>About Me</span>
                   <h3>Software Developer based in San Diego, CA</h3>
                 </div>
                 <div
@@ -67,7 +68,7 @@ const AboutThree = () => {
                   
                 >
                   
-                  <button onClick={toggleModalOne} style={{backgroundColor:"#8090BC"}} >
+                  <button onClick={toggleModalOne} style={{backgroundColor:"rgba(3,67,102,0.8)"}} >
                    Download Resume
                 
                   </button>

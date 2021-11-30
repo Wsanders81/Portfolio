@@ -1,0 +1,46 @@
+
+.Portfolio-project-icons-one {
+    display: flex;
+    margin-left: 2rem;  
+    
+     
+}
+.Portfolio-project-icons-two {
+    display: flex;
+    margin-left: 1rem;  
+    justify-items: flex-end;
+    width: 25%; 
+     
+}
+.Portfolio-project-icons-three {
+    display: flex;
+    margin-left: 1rem;  
+    width: 25%; 
+    margin-left: -0.75rem; 
+     
+}
+
+.Portfolio-icon {
+    height: 2rem ;
+    width: 2rem; 
+}
+
+
+.Portfolio-project-title {
+    display: flex; 
+}
+
+.Portfolio-project-title img {
+    height: 2rem; 
+    width: 2rem; 
+}
+
+
+
+.icon-two {
+    transform: translateX(-1rem)
+}
+
+.icon-three {
+    transform: translateX(-2rem)
+}

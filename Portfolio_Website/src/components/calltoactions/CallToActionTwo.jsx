@@ -36,7 +36,7 @@ const CallToActionTwo = () => {
 
         <div className="talk_inner">
           <div className="text" data-aos="fade-up" data-aos-duration="1200">
-            <h3 style={{color: '#A0E7E5'}}>Get in touch!</h3>
+            <h3 style={{color: '#86DCD9'}}>Get in touch!</h3>
           </div>
 
           <div
@@ -45,7 +45,7 @@ const CallToActionTwo = () => {
             data-aos-duration="1200"
             data-aos-delay="100"
           >
-            <button className="white-fill-bg" onClick={toggleModalOne} style={{backgroundColor: "#8090BC"}}>
+            <button  className="white-fill-bg" onClick={toggleModalOne} style={{backgroundColor: "rgba(3,67,102,0.8)", color: "white"}}>
               Contact Me
             </button>
           </div>
@@ -61,7 +61,7 @@ const CallToActionTwo = () => {
         overlayClassName="custom-overlay"
         closeTimeoutMS={500}
       >
-        <div className="shane_tm_mobalbox_contact" style={{backgroundColor:"cornflowerblue"}}>
+        <div className="shane_tm_mobalbox_contact" style={{backgroundColor:"rgba(3,67,102,0.8)"}}>
           <button className="close-modal" onClick={toggleModalOne}>
             <img src="/img/svg/cancel.svg" alt="close icon" />
           </button>
@@ -70,7 +70,7 @@ const CallToActionTwo = () => {
             <div className="description_wrap scrollable" >
               {/* Start modal content */}
               <div className="title">
-                <h3 >Let's work together</h3>
+                <h3 style={{color: "white"}} >Let's work together</h3>
               </div>
               {/* End title */}
 
@@ -93,7 +93,7 @@ const CallToActionTwo = () => {
               <div className="short_info"  >
                 <ul>
                   <li>
-                    <div className="list_inner" style={{backgroundColor:"rgba(160,231,229,0.7)"}} >
+                    <div className="list_inner" style={{backgroundColor:"rgba(49,56,60,0.7)"}} >
                       <img
                         className="svg"
                         src="img/svg/location.svg"
@@ -105,7 +105,7 @@ const CallToActionTwo = () => {
                   {/* End silgle address */}
 
                   <li>
-                    <div className="list_inner" style={{backgroundColor:"rgba(160,231,229,0.7)"}}>
+                    <div className="list_inner" style={{backgroundColor:"rgba(49,56,60,0.7)"}}>
                       <img
                         className="svg"
                         src="img/svg/phone.svg"
@@ -119,8 +119,9 @@ const CallToActionTwo = () => {
                   {/* End silgle address */}
 
                   <li>
-                    <div className="list_inner" style={{backgroundColor:"rgba(160,231,229,0.7)"}}>
+                    <div className="list_inner" style={{backgroundColor:"rgba(49,56,60,0.7)"}}>
                       <img
+                        
                         className="svg"
                         src="img/svg/share.svg"
                         alt="share"
